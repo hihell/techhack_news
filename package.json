@@ -1,0 +1,16 @@
+{
+    "name": "cloud-code-test",
+    "description": "Cloud Code test project.",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express"      : "3.x",
+        "async"        : "0.9.x",
+        "cheerio"      : "latest",
+        "avoscloud-sdk": "latest",
+        "request"      : "latest",
+        "iconv-lite"   : "latest",
+        "bufferhelper" : "latest",
+        "rss"     : "latest"
+    }
+}

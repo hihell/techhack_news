@@ -1,0 +1,1 @@
+Cloud code project for techhack_news. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
